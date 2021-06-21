@@ -9,9 +9,3 @@
   . numpy
   . time
 ```
-
-
-### To run the project:
-### 1. Clone the repository.
-### 2  Run the file person-motorbike-helmet.py with the following command
-``` python person-motorbike-helmet.py ```
